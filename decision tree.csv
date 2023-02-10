@@ -1,0 +1,17 @@
+company,job,degree,salary
+g,s,b,0
+g,s,m,0
+g,b,b,1
+g,b,m,1
+g,c,b,0
+g,c,m,1
+a,s,m,0
+a,c,b,0
+a,b,b,0
+a,b,m,1
+f,s,b,1
+f,s,m,1
+f,b,b,1
+f,b,m,1
+f,c,b,1
+f,c,m,1
